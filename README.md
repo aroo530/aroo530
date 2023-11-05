@@ -8,7 +8,7 @@ I'm a software engineer based in Alexandria, Egypt, with a passion for coding an
 - 🚀 Always eager to learn and embrace new technologies
 - 💡 Passionate about data analytics and building cool web apps
 - 🌐 Experienced with technologies like Node.js, Angular, MySQL, and more
-- 🤓 Enthusiastic about problem-solving and collaboration
+- 🤓 Enthusiastic about Solving real-world problems using tech
 
 ## Work Experience
 
