@@ -4,7 +4,7 @@ I'm a software engineer based in Alexandria, Egypt, with a passion for coding an
 
 ## About Me
 
-- 🖥️ Full-stack Software Engineer
+- 🖥️ Web Developer
 - 🚀 Always eager to learn and embrace new technologies
 - 💡 Passionate about data analytics and building cool web apps
 - 🌐 Experienced with technologies like Node.js, Angular, MySQL, and more
@@ -20,7 +20,7 @@ I'm a software engineer based in Alexandria, Egypt, with a passion for coding an
 ## Education
 
 - 🎓 Bachelor Of Computer Science from Alexandria University
-- A journey filled with software architecture, machine learning, cloud computing, and more.
+      A journey filled with software architecture, machine learning, cloud computing, and more.
 
 ## Skills
 
