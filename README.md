@@ -6,17 +6,17 @@ I'm a software engineer based in Alexandria, Egypt, with a passion for coding an
 
 - 🖥️ Web Developer
 - 🚀 Always eager to learn and embrace new technologies
-- 💡 Passionate about data analytics and building cool web apps
+- 💡 Passionate about Software Engineering and Data management
 - 🌐 Experienced with technologies like Node.js, Angular, MySQL, and more
 - 🤓 Enthusiastic about Solving real-world problems using tech
 
 ## Work Experience
 
-**Full Stack Engineer, Spare Payment (09/2022 - Present)**
-- Building high-quality features, from Backend (Node.js) to frontend (Angular)
-- Adding a touch of quality with Jasmine unit tests
-- Recently, I've been getting into linting and formatting commits with Husky and Biome.
-
+**Web Developer, Spare Payment (09/2022 - Present)**
+- Actively participated in project planning and played a crucial role in implementing key features that contributed to acquiring one of the largest clients.
+- Developed new and impactful features across the entire technology stack, spanning from the Backend using NodeJS and MySQL to the Frontend with Angular.
+- Introduced and implemented Biome and Husky tools to enforce consistent code formatting and linting standards throughout the codebase.
+- Addressed significant technical debt by integrating Seeders into unit tests, thereby reducing interdependence and significantly enhancing overall testing robustness.
 ## Education
 
 - 🎓 Bachelor Of Computer Science from Alexandria University
